@@ -1,4 +1,4 @@
-Projet Python : Gestion d'une Boutique ERP et WEB
+Projet Python : Gestion d'une Boutique (ERP et WEB)
 
 Vue d'ensemble du projet
 Ce projet concerne la gestion d'une boutique en ligne à travers un système ERP. L'objectif principal était d'analyser et de traiter les données de vente pour obtenir des insights clés sur la performance de la boutique.
